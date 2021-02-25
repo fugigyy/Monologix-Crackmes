@@ -20,7 +20,7 @@ CODE SOURCE (Légitimité du Crackme) :
 long password;
 long valeur;
 
-password = ******;
+password = Cracked;
 
 printf("Entrez le mot de passe s'il vous plait : ");
 scanf_s("%ld", &valeur);
